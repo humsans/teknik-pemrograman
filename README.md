@@ -7,3 +7,4 @@ Program Studi Sarjana Terapan Teknik Informatika
 Jurusan Teknik Komputer dan Informatika
 Politeknik Negeri Bandung
 2024
+
